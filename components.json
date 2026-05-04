@@ -47,6 +47,10 @@
         {
             "name": "sarek",
             "title": "Sarek"
+        },
+        {
+            "name": "gplall",
+            "title": "GPLALL"
         }
     ]
 }
