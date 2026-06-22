@@ -1,5 +1,17 @@
 [
   {
+    "name": "dxvk-gplall-MSVC-AVX2-v2.6.7-1",
+    "title": "2.6.7-1-MSVC-AVX2",
+    "version": "2.6.7-1-gplall-MSVC-AVX2",
+    "uri": "https://github.com/teodorjuravlea/aagl-components/releases/download/dxvk-gplall-v2.6.7-1/dxvk-gplall-MSVC-AVX2-v2.6.7-1.tar.gz"
+  },
+  {
+    "name": "dxvk-gplall-v2.6.7-1",
+    "title": "2.6.7-1",
+    "version": "2.6.7-1-gplall",
+    "uri": "https://github.com/teodorjuravlea/aagl-components/releases/download/dxvk-gplall-v2.6.7-1/dxvk-gplall-v2.6.7-1.tar.gz"
+  },
+  {
     "name": "dxvk-gplall-MSVC-AVX2-v2.7.1-4",
     "title": "2.7.1-4-MSVC-AVX2",
     "version": "2.7.1-4-gplall-MSVC-AVX2",
