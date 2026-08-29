@@ -53,10 +53,6 @@
             "title": "Sarek"
         },
         {
-            "name": "gplall",
-            "title": "GPLALL"
-        },
-        {
             "name": "low-latency",
             "title": "Low-Latency"
         }
